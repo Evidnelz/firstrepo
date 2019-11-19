@@ -1,0 +1,67 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+}
+.bg-green{
+    background-color: #86a518;
+}
+.mail:hover{
+    background-color: rgb(88, 114, 9);
+    border-radius: 3px;
+}
+button:hover{
+    background-color: #86a518 !important;
+}
+.butt{
+ border: #86a518 1px solid !important;
+}
+.bkg{
+    background-image: url(../image/header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.services{
+    padding: 20px;
+    height: 350px;
+}
+
+.color-green{
+    color:#86a518;
+}
+.btb{
+    background-color:#86a518;
+    border: none;
+}
+.and{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.m5i{
+ padding: 50px;
+}
+.bt5{
+    align-content: center;
+}
+a{
+    text-decoration: none !important;
+}
+.bn{
+    position: absolute;
+    right: 5px;
+    bottom: 4px;
+    background-color: #86a518;
+    color: white;
+    border-radius: 5px;
+}
+.bn:hover{
+    background-color: #3c357a !important; 
+}
+.log{
+    position: absolute;
+    right: 1px;
+    bottom: 4px;
+}
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
